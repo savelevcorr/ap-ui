@@ -1,0 +1,21 @@
+{
+  "name": "ap-ui-sass",
+  "authors": [
+    "Andrey Savelyev <andrey.savelyev@arsenalmedia.ru>"
+  ],
+  "description": "'sass lib for arsenal pay components'",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
