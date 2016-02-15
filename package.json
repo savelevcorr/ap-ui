@@ -1,0 +1,23 @@
+{
+  "name": "ap-ui-sass",
+  "version": "1.0.0",
+  "description": "Base styles for pyment form",
+  "scripts": {
+    "build": "node_modules/.bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.arsenalmedia.ru:10232/savelevcorr/ap-ui-base.git"
+  },
+  "author": "Andrey Savelyev",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.3.3",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-csso": "^1.0.1",
+    "gulp-postcss": "^6.1.0",
+    "gulp-sass": "^2.2.0",
+    "node-sass": "^3.4.2"
+  }
+}
