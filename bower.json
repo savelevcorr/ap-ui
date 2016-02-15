@@ -1,5 +1,6 @@
 {
   "name": "ap-ui-sass",
+  "version": "1.0.0",
   "description": "'sass lib for arsenal pay components'",
   "main": [
     "./dist/ap-ui.css"
